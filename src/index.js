@@ -7,11 +7,11 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
     <li>
-      <Activitate mesaj="Prepar cafea" />
-      <Activitate mesaj="Mic dejun" />
-      <Activitate mesaj="Testez 10 functii pentru munca" />
-      <Activitate mesaj="Gatesc" />
-      <Activitate mesaj="Ridic coletul" />
+      <Activitate mesaj="unit1" />
+      <Activitate mesaj="unit2" />
+      <Activitate mesaj="unit3" />
+      <Activitate mesaj="unit4" />
+      <Activitate mesaj="unit5" />
     </li>
   </React.StrictMode>,
   rootElement
